@@ -7,12 +7,12 @@
 	align-items:stretch;
 }
 #image{
-	width:300px;
+	width:400px;
 	height:200px;
 	object-fit:cover;
 }
 .printerest{
-	width:250px;
+	width:350px;
 	text-align:center;
 	padding:10px;
 	background-color:white;
@@ -21,4 +21,5 @@
 }
 #explore-now{
 	background-color:red;
+	color:white;
 }
